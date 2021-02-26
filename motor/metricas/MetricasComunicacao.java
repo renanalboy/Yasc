@@ -29,7 +29,7 @@
  * (C) Copyright 2014, by Grupo de pesquisas em Sistemas Paralelos e Distribuídos da Unesp (GSPD).
  *
  * Original Author:  Denison Menezes (for GSPD);
- * Contributor(s):   -;
+ * Contributor(s):   Renan Alboy;
  *
  * Changes
  * -------
